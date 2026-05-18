@@ -70,4 +70,4 @@ if __name__ == "__main__":
 
     print("Отсортированный список вставками:",
           insertion_sort(numbers.copy()))
-x = 5
+x =tdfjg 5
