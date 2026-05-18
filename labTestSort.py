@@ -65,7 +65,7 @@ if __name__ == "__main__":
 
     numbers = [64, 34, 25, 12, 22, 11, 90]
 
-    print("Bubble sort result:",
+    print("Результат Bubble Sort:",
           bubble_sort(numbers.copy()))
 
     print("Отсортированный список вставками:",
